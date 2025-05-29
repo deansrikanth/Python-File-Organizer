@@ -54,4 +54,4 @@ After:
 
 ## 📚 Author
 **Srikanth** – MCA student | Python & Web Dev Learner  
-[GitHub](https://github.com/your-username) • [LinkedIn](https://linkedin.com/in/your-link)
+[GitHub](https://github.com/deansrikanth) • [LinkedIn](https://www.linkedin.com/in/muppidi-srikanth/)
